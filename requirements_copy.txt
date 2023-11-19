@@ -1,0 +1,13 @@
+protobuf
+transformers
+cpm_kernels
+torch
+gradio
+sentencepiece
+accelerate
+sse-starlette
+streamlit
+fastapi
+uvicorn
+sse_starlette
+loguru
