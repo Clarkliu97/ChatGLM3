@@ -15,7 +15,7 @@ SAVE_INTERVAL=500
 DATESTR=`date +%Y%m%d-%H%M%S`
 RUN_NAME=advertise_gen_pt
 
-BASE_MODEL_PATH=THUDM/chatglm3-6b
+BASE_MODEL_PATH=../chatglm3-6b
 DATASET_PATH=formatted_data/advertise_gen.jsonl
 OUTPUT_DIR=output/${RUN_NAME}-${DATESTR}-${PRE_SEQ_LEN}-${LR}
 
